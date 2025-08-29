@@ -514,6 +514,8 @@ require('lazy').setup({
                 cssls = {},
                 tailwindcss = {},
                 kotlin_language_server = {},
+                elixirls = {},
+                jdtls = {},
                 lua_ls = {
                     -- cmd = { ... },
                     -- filetypes = { ... },
